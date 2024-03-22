@@ -1,0 +1,64 @@
+.fav {
+    padding-top: 160px;
+}
+.fav .container {
+    padding: 0 7%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
+}
+.fav h3 {
+    margin: 18px 0 20px;
+    text-align: left;
+    font-size: 23px;
+    padding: 0 7%;
+}
+.favItem {
+    margin-top: 26px;
+    background-color: #fff;
+    padding: 8px;
+    position: relative;
+}
+.favItem img {
+width: 55%;
+}
+.fav .info {
+    text-align: left;
+}
+.fav .info h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.fav .info p {
+    width: 200px;
+    margin-bottom: 10px;
+}
+.fav .info .p{
+  color: #e00e38f0;
+  font-size: px;
+    
+}
+.h {
+    position: absolute;
+    right: 13px;
+    font-size: 25px;
+    color: red;
+    cursor: pointer;
+}
+.empty {
+    height: 110px;
+    background-color: #fff;
+    text-align: left;
+    font-size: 23px;
+    font-weight: 600;
+    padding: 19px 18px;
+    border-radius: 14px;
+    color: #d82347f0;
+    width: 201%;
+}
+@media only screen  and (max-width: 768px){
+    .empty{
+        width: 100%;
+    }
+    
+}

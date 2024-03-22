@@ -1,0 +1,22 @@
+#products {
+    width: 90%;
+    margin: auto;
+    padding-top: 100px 7%;
+}
+.tall {
+    text-align: left;
+}
+#products .title{
+    margin-bottom: 21px ;
+    display: inline-block;
+}
+#products .ticon {
+    font-size: 20px;
+    margin-right: 5px;
+    color: #e00e38f0;
+}
+/* #products .conatiner {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(255px,1fr));
+    gap:20px
+} */

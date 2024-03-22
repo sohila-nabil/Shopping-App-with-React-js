@@ -1,0 +1,45 @@
+.arrivals {
+    /* width: 80%;
+    margin: auto; */
+    padding: 120px  7% 0;
+}
+.arrivals .title {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+.arrivals .title span {
+    margin-left: 73%;
+    font-size: 14px;
+    color: grey;
+}
+.arrivals .title h2 {
+    display: inline-block;
+}
+.arrivals .title .ticon {
+    font-size: 21px;
+    margin-right: 8px;
+    color: #d82347f0;
+}
+.arrivals .content {
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap: 30px;
+}
+.arrivals .content .box  {
+    padding: 22px 10px;
+    text-align: left;
+}
+.arrivals .content .box img {
+    width: 100%;
+}
+.arrivals .data h4 {
+font-size: 15px;
+}
+.arrivals .data span {
+    font-weight: 400;
+    font-size: 15px;
+}

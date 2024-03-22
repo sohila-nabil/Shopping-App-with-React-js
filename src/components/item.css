@@ -1,0 +1,84 @@
+.pro {
+    width: 100%;
+    padding-top: 100px;
+}
+.pro .product-item {
+    background-color: #fff;
+    padding: 8px;
+    border-radius: 13px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    -ms-border-radius: 13px;
+    -o-border-radius: 13px;
+}
+.pro .product-item img {
+    width: 65%;
+}
+.pro .product-item .info {
+    text-align: left;
+}
+.pro .product-item .info h3 {
+    font-size: 20px;
+    font-weight: 500;
+}
+.pro .product-item .info  .stars {
+    margin-top: 7px;
+
+}
+.pro .product-item .info  .stars .star {
+    color: yellow;
+    font-size: 18px;
+    margin: 4px 4px 0 0;
+}
+.own {
+    display: grid;
+    grid-template-columns: 280px;
+}
+.add {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.off {
+    position: relative;
+    top: -43%;
+    left: 1%;
+    font-size: 12px;
+    background-color: #d01238c6;
+    color: #fff;
+    width: fit-content;
+    border-radius: 13px;
+    padding: 3px 8px;
+}
+.pro .product-item .plus {
+    padding: 5px 27px;
+    font-size: 19px;
+    border: none;
+    color: #fff;
+    border-radius: 12px ;
+    -webkit-border-radius: 12px ;
+    -moz-border-radius: 12px ;
+    -ms-border-radius: 12px ;
+    -o-border-radius: 12px ;
+    background-color: #e00e38f0;
+    cursor: pointer;
+}
+.pro .product-item .plus:hover {
+    background-color: #d01238c6;
+    color: #fff;
+}
+.heart {
+    font-size: 22px;
+    cursor: pointer;
+}
+@media only screen  and (max-width: 768px){
+    .own {
+        grid-template-columns: 300px;
+    }
+    .own img {
+        width: 70%
+    }
+}
