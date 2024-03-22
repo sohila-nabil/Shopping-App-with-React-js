@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sohila-nabil/Shopping-App-with-React-js/static/css/main.9f53f808.css",
-    "main.js": "/sohila-nabil/Shopping-App-with-React-js/static/js/main.bb451548.js",
-    "static/media/slide-3.png": "/sohila-nabil/Shopping-App-with-React-js/static/media/slide-3.aaecb43680fecf2eefeb.png",
-    "static/media/slide-2.png": "/sohila-nabil/Shopping-App-with-React-js/static/media/slide-2.37492f6c2715182edca2.png",
-    "static/media/slide-1.png": "/sohila-nabil/Shopping-App-with-React-js/static/media/slide-1.ab34f22bd9bf81f6c7b7.png",
-    "static/media/slide-4.png": "/sohila-nabil/Shopping-App-with-React-js/static/media/slide-4.745d65ab674490812cf7.png",
-    "static/media/revicons.eot": "/sohila-nabil/Shopping-App-with-React-js/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/sohila-nabil/Shopping-App-with-React-js/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/sohila-nabil/Shopping-App-with-React-js/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/sohila-nabil/Shopping-App-with-React-js/index.html",
-    "main.9f53f808.css.map": "/sohila-nabil/Shopping-App-with-React-js/static/css/main.9f53f808.css.map",
-    "main.bb451548.js.map": "/sohila-nabil/Shopping-App-with-React-js/static/js/main.bb451548.js.map"
+    "main.css": "/Shopping-App-with-React-js/static/css/main.44a0f29f.css",
+    "main.js": "/Shopping-App-with-React-js/static/js/main.cea7c1ed.js",
+    "static/media/slide-3.png": "/Shopping-App-with-React-js/static/media/slide-3.aaecb43680fecf2eefeb.png",
+    "static/media/slide-2.png": "/Shopping-App-with-React-js/static/media/slide-2.37492f6c2715182edca2.png",
+    "static/media/slide-1.png": "/Shopping-App-with-React-js/static/media/slide-1.ab34f22bd9bf81f6c7b7.png",
+    "static/media/slide-4.png": "/Shopping-App-with-React-js/static/media/slide-4.745d65ab674490812cf7.png",
+    "static/media/revicons.eot": "/Shopping-App-with-React-js/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Shopping-App-with-React-js/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Shopping-App-with-React-js/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Shopping-App-with-React-js/index.html",
+    "main.44a0f29f.css.map": "/Shopping-App-with-React-js/static/css/main.44a0f29f.css.map",
+    "main.cea7c1ed.js.map": "/Shopping-App-with-React-js/static/js/main.cea7c1ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f53f808.css",
-    "static/js/main.bb451548.js"
+    "static/css/main.44a0f29f.css",
+    "static/js/main.cea7c1ed.js"
   ]
 }
